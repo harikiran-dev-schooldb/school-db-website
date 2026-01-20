@@ -1,8 +1,16 @@
 export const metadata = {
-  title: "Schooldb Features | Smart School Management System",
+  title: "Features | Schooldb",
   description:
-    "Discover Schooldb features that help school principals and management manage attendance, academics, staff, fees, and reports with clarity and control.",
+    "Explore Schooldb features including attendance, marks, fees, student and teacher management built for school leadership.",
+  openGraph: {
+    title: "Schooldb Features",
+    description:
+      "All-in-one school management features for principals and administrators.",
+    images: ["/og/features.png"],
+    type: "website",
+  },
 };
+
 
 
 
